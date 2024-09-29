@@ -1,0 +1,12 @@
+
+My personal project idea is a self-hosted movie and tv show review service that anyone can host locally or globally, and invite friends and family to rate and review said movies and shows as well as get recommendations similar to their past watch history.
+
+(As a server admin. I want to aggregate ratings so that users can sort films by their rating)
+
+(As a user. I want to know where to watch something so that I know what streaming service to use)
+
+(As a server admin. I want to separate by genre so that users can find media they're interested in)
+
+(As a user. I want recommendations on media so that I can find new movies and shows)
+
+(As a server admin. I want to collect data so that I can display relevant information such as how many times a movie/show has been seen)

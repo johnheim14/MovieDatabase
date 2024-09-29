@@ -1,0 +1,7 @@
+Movie(ID, Title, Genre, Runtime, StreamingService, CriticRating, LocalRating, Reviews, Rating)
+
+TvShow(ID, Title, Genre, NumOfSeasons, StreamingService, EpisodeLength, CriticRating, LocalRating, Reviews, Rating)
+
+Review(ID, User_ID, Rating, Movie_ID, TvShow_ID, Date)
+
+User(ID, Username, Preferences)
